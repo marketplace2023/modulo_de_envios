@@ -56,10 +56,10 @@ Componente: Permite a los usuarios configurar opciones de envío directamente de
 Componente: Facilita la generación e impresión de etiquetas para las operaciones de envío.
 ## Seguimiento de Envíos (stock.picking)
 Componente: Permite a los usuarios rastrear el estado de sus envíos en tiempo real.
-Ajustes
+# Ajustes
 ## Configuración de Opciones de Envío por Región (delivery.carrier, res.country, res.country.group)
 Componente: Configura las opciones de envío según la región geográfica, adaptando las tarifas y servicios disponibles.
-Reportes
+# Reportes
 ## Informe de Estado de Envíos (stock.picking)
 Componente: Proporciona un informe detallado del estado de los envíos.
 ## Análisis de Tiempos de Entrega (stock.picking)
